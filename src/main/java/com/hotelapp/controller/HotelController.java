@@ -16,6 +16,8 @@ import java.util.List;
 @RequestMapping("/hotels-restApi")
 public class HotelController {
 
+    /*THis is demo*/
+    
     @Autowired
     HotelService hotelService;
 
